@@ -1,0 +1,1 @@
+{"banned_words": ["putain","merde","connard","salope","enculé","fdp","ntm","fils de pute","bitch","fuck","shit"],"replace_char": "*","spam": {"max_messages_per_10s": 5,"duplicate_window": 3,"min_interval_ms": 800,"max_length": 200,"caps_ratio": 0.8}}
